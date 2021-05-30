@@ -1,0 +1,675 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">31898159</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>12</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>12</Month>
+            <Day>29</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1559-1182</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>57</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular neurobiology</Title>
+                <ISOAbbreviation>Mol Neurobiol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Targeting Cannabinoid Receptor Activation and BACE-1 Activity Counteracts TgAPP Mice Memory Impairment and Alzheimer's Disease Lymphoblast Alterations.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1938-1951</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s12035-019-01813-4</ELocationID>
+            <Abstract>
+                <AbstractText>Alzheimer's disease (AD), the leading cause of dementia in the elderly, is a neurodegenerative disorder marked by progressive impairment of cognitive ability. Patients with AD display neuropathological lesions including senile plaques, neurofibrillary tangles, and neuronal loss. There are no disease-modifying drugs currently available. With the number of affected individuals increasing dramatically throughout the world, there is obvious urgent need for effective treatment strategy for AD. The multifactorial nature of AD encouraged the development of multifunctional compounds, able to interact with several putative targets. Here, we have evaluated the effects of two in-house designed cannabinoid receptors (CB) agonists showing inhibitory actions on β-secretase-1 (BACE-1) (NP137) and BACE-1/butyrylcholinesterase (BuChE) (NP148), on cellular models of AD, including immortalized lymphocytes from late-onset AD patients. Furthermore, the performance of TgAPP mice in a spatial navigation task was investigated following chronic administration of NP137 and NP148. We report here that NP137 and NP148 showed neuroprotective effects in amyloid-β-treated primary cortical neurons, and NP137 in particular rescued the cognitive deficit of TgAPP mice. The latter compound was able to blunt the abnormal cell response to serum addition or withdrawal of lymphoblasts derived from AD patients. It is suggested that NP137 could be a good drug candidate for future treatment of AD.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nuñez-Borque</LastName>
+                    <ForeName>Emilio</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centro de Investigaciones Biológicas (CSIC), Ramiro de Maeztu 9, 28040, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>González-Naranjo</LastName>
+                    <ForeName>Pedro</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto de Química Médica (CSIC), Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bartolomé</LastName>
+                    <ForeName>Fernando</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Neurodegenerative Disorders Group, Instituto de Investigación Hospital 12 de Octubre, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centro de Investigación Biomédica en Red sobre Enfermedades Neurodegenerativas (CIBERNED), Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alquézar</LastName>
+                    <ForeName>Carolina</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centro de Investigaciones Biológicas (CSIC), Ramiro de Maeztu 9, 28040, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Memory and Aging Center, University of California, Box 1207, San Francisco, CA, 94158, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reinares-Sebastián</LastName>
+                    <ForeName>Alejandro</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centro de Investigaciones Biológicas (CSIC), Ramiro de Maeztu 9, 28040, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pérez</LastName>
+                    <ForeName>Concepción</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto de Química Médica (CSIC), Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ceballos</LastName>
+                    <ForeName>Maria L</ForeName>
+                    <Initials>ML</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centro de Investigación Biomédica en Red sobre Enfermedades Neurodegenerativas (CIBERNED), Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Insituto Cajal (CSIC), Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Páez</LastName>
+                    <ForeName>Juan A</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto de Química Médica (CSIC), Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Campillo</LastName>
+                    <ForeName>Nuria E</ForeName>
+                    <Initials>NE</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-9948-2665</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Centro de Investigaciones Biológicas (CSIC), Ramiro de Maeztu 9, 28040, Madrid, Spain. nuria.campillo@cscic.es.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martín-Requero</LastName>
+                    <ForeName>Ángeles</ForeName>
+                    <Initials>Á</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3416-9440</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Centro de Investigaciones Biológicas (CSIC), Ramiro de Maeztu 9, 28040, Madrid, Spain. amrequero@cib.csic.es.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centro de Investigación Biomédica en Red sobre Enfermedades Neurodegenerativas (CIBERNED), Madrid, Spain. amrequero@cib.csic.es.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>CTQ2015-66313-R</GrantID>
+                    <Agency>Secretaría de Estado de Investigación, Desarrollo e Innovación</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>RTI2018-096100-B-I00</GrantID>
+                    <Agency>Secretaría de Estado de Investigación, Desarrollo e Innovación</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>01</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mol Neurobiol</MedlineTA>
+            <NlmUniqueID>8900963</NlmUniqueID>
+            <ISSNLinking>0893-7648</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016229">Amyloid beta-Peptides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D050759">Cyclin-Dependent Kinase Inhibitor p21</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018696">Neuroprotective Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D043882">Receptors, Cannabinoid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.-</RegistryNumber>
+                <NameOfSubstance UI="D053829">Amyloid Precursor Protein Secretases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.23.-</RegistryNumber>
+                <NameOfSubstance UI="D016282">Aspartic Acid Endopeptidases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.23.46</RegistryNumber>
+                <NameOfSubstance UI="C509282">Bace1 protein, mouse</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000544" MajorTopicYN="N">Alzheimer Disease</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053829" MajorTopicYN="N">Amyloid Precursor Protein Secretases</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016229" MajorTopicYN="N">Amyloid beta-Peptides</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016282" MajorTopicYN="N">Aspartic Acid Endopeptidases</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002453" MajorTopicYN="N">Cell Cycle</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016923" MajorTopicYN="N">Cell Death</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049109" MajorTopicYN="N">Cell Proliferation</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002470" MajorTopicYN="N">Cell Survival</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050759" MajorTopicYN="N">Cyclin-Dependent Kinase Inhibitor p21</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008214" MajorTopicYN="N">Lymphocytes</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020935" MajorTopicYN="N">MAP Kinase Signaling System</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008569" MajorTopicYN="N">Memory Disorders</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008822" MajorTopicYN="N">Mice, Transgenic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="N">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009474" MajorTopicYN="N">Neurons</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018696" MajorTopicYN="N">Neuroprotective Agents</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017208" MajorTopicYN="N">Rats, Wistar</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D043882" MajorTopicYN="N">Receptors, Cannabinoid</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Alzheimer’s disease</Keyword>
+            <Keyword MajorTopicYN="N">Cannabinoids</Keyword>
+            <Keyword MajorTopicYN="N">Cell proliferation</Keyword>
+            <Keyword MajorTopicYN="N">Cell survival</Keyword>
+            <Keyword MajorTopicYN="N">Lymphoblasts</Keyword>
+            <Keyword MajorTopicYN="N">Memory</Keyword>
+            <Keyword MajorTopicYN="N">TgAPP mice</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>1</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>12</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>1</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31898159</ArticleId>
+            <ArticleId IdType="doi">10.1007/s12035-019-01813-4</ArticleId>
+            <ArticleId IdType="pii">10.1007/s12035-019-01813-4</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Eur J Med Chem. 2014 Feb 12;73:56-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24378710</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Molecules. 2017 Mar 06;22(3):</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28272324</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain. 2011 Apr;134(Pt 4):1041-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21459826</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Cell Biol. 2003 Feb;13(2):65-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12559756</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Alzheimer Res. 2013 Mar;10(3):229-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23369066</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Alzheimers Dement. 2010 Sep;6(5):420-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20813343</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Cell. 2003 Dec;4(6):425-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14706334</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Pharmacol. 2014 Mar 05;5:37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24634659</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2004 Oct 20;24(42):9232-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15496657</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Neurosci. 2003 Feb;4(2):131-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12563284</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2017 May 25;7(1):2403</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28546583</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2012 Feb 28;109(9):3534-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22331871</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>CNS Neurol Disord Drug Targets. 2014;13(8):1432-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25345511</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1990 Mar;87(5):1932-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2308954</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Neurol. 1994 Nov;36(5):722-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7979218</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Pharmacol. 2011 Jun;79(6):964-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21350020</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neuroinflammation. 2012 Jan 16;9:8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22248049</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2019 Feb 6;141(5):2061-2068</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30638380</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Med Chem. 2019 Mar 15;166:90-107</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30685536</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pharmacol Biochem Behav. 2006 Sep;85(1):243-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16996123</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurobiol Aging. 2013 Apr;34(4):1090-100</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23153928</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Med Chem. 2019;26(18):3300-3340</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29484980</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2003 Jan;9(1):3-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12514700</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurochem Int. 2005 Apr;46(5):409-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15737439</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1993 Sep 2;365(6441):61-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7689702</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Mol Life Sci. 2007 Jun;64(11):1437-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17502994</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurobiol Aging. 2012 Aug;33(8):1522-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21546126</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurobiol Aging. 2008 Oct;29(10):1474-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17448572</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurobiol Aging. 2005 Aug-Sep;26(8):1167-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15917100</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2005 Feb 23;25(8):1904-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15728830</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mini Rev Med Chem. 2009 May;9(5):539-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19456285</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Cycle. 2006 Jan;5(1):3-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16357525</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int Psychogeriatr. 2012 Jun;24(6):856-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22244371</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Neurobiol. 2015 Aug;52(1):386-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25182869</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Pharmacol. 2003 Jun 27;471(3):185-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12826237</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Neurobiol. 2012 Aug;46(1):125-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22528601</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hippocampus. 2003;13(5):543-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12921345</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Neurodegener. 2015 Sep 03;10:44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26336937</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Redox Biol. 2017 Apr;11:577-585</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28110213</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol Methods. 1986 May 22;89(2):271-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3486233</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cent Nerv Syst Agents Med Chem. 2017;17(2):141-150</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27142423</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2017 Jun;23(6):782-787</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28481360</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurochem. 2000 Sep;75(3):1320-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10936216</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Gerontol. 2014 Dec;60:92-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25456842</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann N Y Acad Sci. 2006 Aug;1074:514-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17105950</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Pharmacol. 1999 Nov 3;383(3):231-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10594314</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2005 Dec 27;102(52):19198-203</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16365303</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Protoc Stem Cell Biol. 2009 Dec;Chapter 2:Unit 2D.5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19960452</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>CNS Drugs. 2018 Jun;32(6):579-591</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29736745</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Alzheimer Dis Assoc Disord. 1997 Dec;11(4):220-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9437439</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Neurosci. 2012 Oct 06;13:120</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23040108</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2001 Aug 1;61(15):5784-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11479216</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurobiol Aging. 2014 Apr;35(4):886-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24139281</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Neurol. 2002 Jun;51(6):783-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12112088</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroscience. 2002;110(4):627-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11934471</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>
